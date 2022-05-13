@@ -7,3 +7,6 @@
 >Your goal is to calculate how much more money the office would make if it would change the ticket discount age to the given input.
 >So, your program needs to take an integer as input and output the percentage of revenue growth, if the discount was given to people under that age.  
 >>For example, if the office made $15000 with the original discount age, and would make $18000 with 14 as the discount age, then the growth would be ((18000-15000)/15000)*100 = 20%  So, for the input 14, your program should output 20. The output should be an integer (use int() to convert the result).
+>
+>
+>>This project was completed for: PYTHON CORE certificate from SoloLearn, in Summer of 2021 and is being added to GitHub in May 2022.
